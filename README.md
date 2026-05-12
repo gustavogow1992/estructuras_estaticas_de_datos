@@ -2,6 +2,7 @@
 Repositorio para prácticas de estructura de datos
 
 Palabras reservadas:
+ihiuhuihihiuh
 if
 elif
 else
